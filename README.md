@@ -40,7 +40,6 @@ Table of Contents
 - [Image Credits](#image-credits)
 
 
-
 ----------------  
 
 
@@ -63,8 +62,6 @@ run `setup.py`
     python setup.py install
     
 **NOTE:** Python 2 users must manually install WxPython! Unfortunately, this cannot be done as part of the pip installation and should be manually downloaded from the [wxPython website](http://www.wxpython.org/download.php).
-
-
 
 ### Usage  
 

@@ -4,7 +4,7 @@ App wide event registry
 Everything in the application is communicated via pubsub. These are the events
 that tie everything together.
 """
-
+# a conflict is being created
 import wx
 
 WINDOW_STOP     = wx.NewId()
